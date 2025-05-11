@@ -1,1 +1,1 @@
-<img src="https://pm1.aminoapps.com/6327/5787984dfcbfce5c6f7715cc2d5f8f0341d335a0_hq.jpg">
+<img class = "center" src="https://static.wikia.nocookie.net/rezero/images/8/80/ReZero_OVA_-_Screenshot_1.jpg/revision/latest?cb=20181004222412">
