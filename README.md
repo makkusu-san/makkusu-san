@@ -10,7 +10,7 @@
 <li>Hobbys: <b>Learn JP, ENG, PL - languages Draw anime characters, making anime games/shaders in Unity Engine </b> </li>
 <li> Working: <b> Gaining experience... </b> </li>
 <li> Music: <b> I like russian antipop ( 17 SEVENTEEN, SQWORE, RIZZA, KAYYO) </b> </li>
-<p><h1 align = "center">Ｋｎｏｗｌｅｄｇｅ ⛩️🌸🍥☯🍜 </h1></p>
+ <br> <p><h1 align = "center">Ｋｎｏｗｌｅｄｇｅ ⛩️🌸🍥☯🍜 </h1></p>
 
 <p align="left">
 </p>
