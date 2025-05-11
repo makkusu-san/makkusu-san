@@ -37,7 +37,8 @@ I love anime :>
     <img align = "right" src="https://media.tenor.com/Xrt5kXn6IzwAAAAi/rem-re-zero.gif"  width="125px">
     <img align = "left" src="https://media.tenor.com/7WbRvUKO9JUAAAAj/ram-png.gif"  width="125px">
  <p align = "center">
-         <a href="#"><img src="https://img.shields.io/badge/%23-pink?style=for-the-badge"/>  <a href="t.me/makkususan"><img src="https://img.shields.io/badge/telegram-pink?style=for-the-badge"/>
+         <a href="#"><img src="https://img.shields.io/badge/%23-pink?style=for-the-badge"/> 
+         <a href="https://t.me/makkususan"><img src="https://img.shields.io/badge/telegram-pink?style=for-the-badge"/>
          <a href="https://x.com/max_develo46180?t=dtjbj962C_YSjhvzZrIVqg&s=09"><img src="https://img.shields.io/badge/TWITTER-pink?style=for-the-badge"/>
          <a href="#"><img src="https://img.shields.io/badge/%23-pink?style=for-the-badge"/>
     
